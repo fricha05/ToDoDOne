@@ -1,0 +1,13 @@
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\bin\Debug\netcoreapp3.1\App.exe
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\bin\Debug\netcoreapp3.1\App.deps.json
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\bin\Debug\netcoreapp3.1\App.dll
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\bin\Debug\netcoreapp3.1\App.pdb
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\obj\Debug\netcoreapp3.1\App.dll
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\obj\Debug\netcoreapp3.1\App.pdb
+C:\Users\flori\Documents\Cours\ESGI\Clean Architecture\TodoDone\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
